@@ -1,1 +1,2 @@
 wcjiang/linux-command:latest
+infiniflow/ragflow:nightly-slim
