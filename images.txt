@@ -1,3 +1,4 @@
 wcjiang/linux-command:latest
 infiniflow/ragflow:nightly-slim
 hello-world
+infiniflow/ragflow:v0.14.1-slim
